@@ -1040,3 +1040,12 @@ h4 {
         text-align: center;
     }
 }
+
+/*CORECTION*/
+
+.row p{
+    text-align: center;
+}
+.texte_modifiez{
+    font-size: 1.4em;
+}
