@@ -736,7 +736,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #242424!important;
 }
 
 .portfolio-thumb {
@@ -1052,4 +1052,7 @@ h4 {
 }
 .texte_nom_pdg{
     font-size: 14px;
+}
+.tc-black{
+    color: #242424!important;
 }
